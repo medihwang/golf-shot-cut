@@ -1,5 +1,5 @@
 // 골프 샷 자동 컷 — service worker: offline shell + "공유" target from the gallery.
-const VERSION = 'golfcut-v2';
+const VERSION = 'golfcut-v3';
 const SHARE_CACHE = 'golfcut-share';
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png'];
 
